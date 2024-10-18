@@ -1,10 +1,10 @@
 # Relationship Tables
 
 ### OneToMany
-### Department <-> Student
+### Department -> Student
 
 ### ManyToOne
-### Student <-> Department
+### Student -> Department
 
 ### ManyToMany
 ### Department <-> Teacher
